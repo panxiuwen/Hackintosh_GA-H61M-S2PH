@@ -4,7 +4,7 @@
 
 CPU: Intel Xeon E3 1220
 
-GPU: Radeon RX 550 640sp D52G
+GPU: Radeon RX 550 640sp (Polaris21/Baffin)
 
 Audio: ALC887
 
