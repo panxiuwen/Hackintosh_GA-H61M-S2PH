@@ -28,4 +28,4 @@ If you want to enter the system directly without selecting the startup item, ple
 
 # Issue
 
-Unknow
+Sleep become shut down
