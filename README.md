@@ -8,7 +8,9 @@ GPU: Radeon RX 550 640sp (Polaris21/Baffin)
 
 Audio: ALC887
 
-Wireless: DW1550/BCM94352HMB
+Wireless1: DW1550/BCM94352HMB (EFI_brcm.rar)
+
+Wireless2: Intel 7260ac/AX200HMW (EFI_itlwm.rar)
 
 Network: Realtek RTL8111E
 
